@@ -2,7 +2,7 @@
 
 - 🌱 Formado em Análise e Desenvolvimento de sistemas.
 - 📚 Dedico meus estudos a área de desenvolvimento web.
-- 💻 Trabalho como desenvolvedor Backend em Typescript.
+- 💻 Trabalho como desenvolvedor backend em Typescript.
 - ⚡ Tenho 21 anos.
 - 🖥️ Apaixonado por tecnologia.
 
