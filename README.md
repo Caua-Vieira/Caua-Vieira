@@ -1,7 +1,7 @@
 ### Olá, me chamo Cauã Vieira
 
 - 🌱 Formado em Análise e Desenvolvimento de sistemas.
-- 📚 Dedico meus estudos a área de desenvolvimento web.
+- 📚 Dedico meus estudos a área de desenvolvimento back-end.
 - 💻 Trabalho como desenvolvedor backend em Typescript.
 - ⚡ Tenho 22 anos.
 - 🖥️ Apaixonado por tecnologia.
