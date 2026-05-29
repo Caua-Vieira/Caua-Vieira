@@ -3,12 +3,9 @@
 - 🌱 Formado em Análise e Desenvolvimento de sistemas.
 - 📚 Dedico meus estudos a área de desenvolvimento back-end.
 - 💻 Trabalho como desenvolvedor backend em Typescript.
-- ⚡ Tenho 22 anos.
+- ⚡ Tenho 23 anos.
 - 🖥️ Apaixonado por tecnologia.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caua-Vieira&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-Vieira&theme=highcontrast&langs_count=8)](https://github.com/Caua-Vieiragithub-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Vieira-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
